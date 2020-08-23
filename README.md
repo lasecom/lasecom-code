@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+(I'm making some edits to this file to learn how to use this GIT thingy... not sure if I get it at this point...)
+
 You can use the [editor on GitHub](https://github.com/lasecom/lasecom-code/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
